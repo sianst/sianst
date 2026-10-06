@@ -40,17 +40,16 @@ Training System을 설계하고 있습니다.
 
 ## 🛠 Tech & Tools
 
-### Planning & Design
-
-Figma UX/UI Service Planning Digital Twin XR
-
 ### Development
 
-Python Unity Git GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### AI Tools
+### Design & Planning
 
-ChatGPT Claude Cursor
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
